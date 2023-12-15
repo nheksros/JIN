@@ -8,9 +8,7 @@ function generateSidebar() {
             path.resolve(__dirname, "../../articles/博客"),
         ),
 
-        "/articles/HTML": sidebarAuto(
-            path.resolve(__dirname, "../../articles/HTML"),
-        ),
+        
         "/articles/myArticle": sidebarAuto(
             path.resolve(__dirname, "../../articles/myArticle"),
         ),

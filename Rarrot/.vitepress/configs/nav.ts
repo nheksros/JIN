@@ -6,7 +6,6 @@ export const nav: DefaultTheme.Config['nav'] = [
     {
         text: '前端笔记',
         items: [
-            { text: "HTML", link: "/articles/HTML/浏览器渲染过程" },
             { text: "myArticle", link: "/articles/myArticle/index" },
             { text: "JavaScript", link: "/articles/JavaScript/0认识JavaScript" },
             { text: "typescript", link: "/articles/typescript/01-基础类型" },

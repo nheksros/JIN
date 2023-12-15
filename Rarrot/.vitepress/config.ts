@@ -82,12 +82,12 @@ export default defineConfig({
     sidebarMenuLabel: '目录',
     returnToTopLabel: '回到顶部',
     editLink: {
-      pattern: 'https://github.com/hr1201/hr1201.github.io/blob/main/Rarrot/:path',
+      pattern: 'https://github.com/nheksros/JIN/main/Rarrot/:path',
       text: '在GitHub编辑此页',
     },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/Bad7NNcr' },
-      { icon: 'github', link: 'https://github.com/hr1201' },
+      { icon: 'github', link: 'https://github.com/nheksros/JIN' },
       { icon: "twitter", link: "https://twitter.com/hungrng75647520" },
       // 自定义社交连接
       // {

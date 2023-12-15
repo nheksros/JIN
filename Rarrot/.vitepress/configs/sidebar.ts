@@ -11,8 +11,8 @@ function generateSidebar() {
         "/articles/HTML": sidebarAuto(
             path.resolve(__dirname, "../../articles/HTML"),
         ),
-        "/articles/css": sidebarAuto(
-            path.resolve(__dirname, "../../articles/css"),
+        "/articles/myArticle": sidebarAuto(
+            path.resolve(__dirname, "../../articles/myArticle"),
         ),
 
         // 定义"/articles/" 将此配置为路径，只有包含这个路径的才会出现侧边栏
@@ -43,6 +43,7 @@ function generateSidebar() {
         "/articles/工具": sidebarAuto(
             path.resolve(__dirname, "../../articles/工具"),
         ),
+
     }
 }
 

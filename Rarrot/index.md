@@ -6,7 +6,7 @@ title: VitePress
 titleTemplate: Vite & Vue Powered Static Site Generator
 
 hero:
-   name: "Rarrot"
+   name: "JIN"
    text: "个人博客网站"
    tagline: 
    image:
@@ -22,7 +22,7 @@ hero:
 
 features:
    - icon: 🛞
-     title: 基础知识
+     title: PhD
      details: HTML，CSS，JavaScript，typescript，Less
    - icon: 🚗
      title: 框架相关
